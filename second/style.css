@@ -1,0 +1,35 @@
+.vertical {
+  width: 33.33%;
+  height: 100vh;
+  display: inline-block;
+  margin-left: -4px;
+}
+
+.teal {
+  background: #1094E5
+}
+
+.seafoam {
+  background: #4CD7BC;
+  
+}
+
+.limegreen {
+  background: #B6EE90;
+  position: relative;
+}
+
+.red-box {
+  position: absolute;
+  background: #D01F0F;
+  font-family: Arial, Sans-Serif;
+  color: #fff;
+  width: 100%;
+  height: 120px;
+  bottom: 0px;
+  display: flex;
+  justify-content: center; /* align horizontal */
+  align-items: center;
+}
+
+
